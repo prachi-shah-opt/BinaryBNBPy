@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BranchAndBound",
+    "\\NonMonotonicity",
+    "\\NonMonotonicity\\Multi-knapsack",
+    "\\OptimalTrees"
+  ],
+  "SelectedNode": "\\NonMonotonicity\\Multi-knapsack\\packing_cover_cuts.py",
+  "PreviewInSolutionExplorer": false
+}
